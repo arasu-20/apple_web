@@ -1,9 +1,8 @@
 {
-  "name": "reactshopping",
+  "name": "apple_web",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://arasu-20.github.io/apple_web",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
